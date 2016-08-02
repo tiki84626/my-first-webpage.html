@@ -2,7 +2,7 @@
 
 #### _A folder containing two web pages. The first is my first webpage which as the name describes was my first web page. The second is a list of my favorite things., 08/01/16_
 
-#### By _**Thomas Rivas and Jackson Meyer**_
+#### By _**Andrew Malkin and HK**_
 
 ## Description
 
@@ -14,7 +14,7 @@ _Given our content was not stored remotely all images do not appear._
 
 ## Support and contact details
 
-_In case any issues please contact me at my github @trivassi_
+_In case any issues please contact me at andymalkin@gmail.com_
 
 ## Technologies Used
 
@@ -24,4 +24,4 @@ _These two websites were written in html and are stored on github._
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **_Thomas Rivas, Jackson Meyer and Epicodus_**
+Copyright (c) 2016 **_Andrew Malkin, HK, and Epicodus_**
